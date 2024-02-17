@@ -7,7 +7,7 @@ Thaylon Ramon Ramos Ribeiro
 - FLASK
 
 ## INICIAR
-    Apos baixar o baixar o repositorio e abra ele no seu vs code e de run python file ou no terminal :
+    Apos baixar o baixar o repositorio , abra a pasta com o vscode e de run python file ou no terminal :
 ```
    cd apii python
 ```
@@ -15,6 +15,7 @@ Thaylon Ramon Ramos Ribeiro
  ```json
      python app.py
 ```
+    Assim agora você poderá utilizar a API com os links abaixos.
 ## URL API
 
 http://localhost:5000
