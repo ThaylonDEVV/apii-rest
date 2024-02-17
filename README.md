@@ -8,11 +8,11 @@ Thaylon Ramon Ramos Ribeiro
 
 ## INICIAR
     Apos baixar o baixar o repositorio e abra ele no seu vs code e de run python file ou no terminal :
-```json
+```
    cd apii python
 ```
 
-       ```json
+ ```json
      python app.py
 ```
 ## URL API
