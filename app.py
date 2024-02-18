@@ -58,5 +58,4 @@ def excluir_livro(id):
 
     return jsonify(livros)
 
-if __name__ == "__main__":
-    app.run(port=int(os.environ.get('PORT', 5000)), host='0.0.0.0', debug=False)
+app.run(port=5000,host='localhost',debug=True)
