@@ -168,6 +168,11 @@ Exemplo de Resposta:
 Pode utilizar o programa "Postman" para testar e fazer a manipulação e testes na api.
 [Postman](https://www.postman.com/downloads/)
 
+Exemplos : 
+    **localhost:5000/livros (GET)**
+    ![GET]([url_da_imagem](https://files.fm/u/rasyzwcnre))
+
+
 
 ## - Créditos - Fontes de referência utilizadas
 [![Badge](https://img.shields.io/badge/Leia%20mais-Programa%C3%A7%C3%A3o%20em%20Python%20com%20Flask-blue?style=for-the-badge&logo=python)](https://blog.debugeverything.com/pt/programacao-em-python-aplicativo-flask/)
